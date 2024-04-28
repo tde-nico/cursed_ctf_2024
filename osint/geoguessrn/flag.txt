@@ -1,0 +1,1 @@
+cursedctf{cape-of-good-hope}
